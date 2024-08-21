@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá! Sou o Ruan Pablo
-Apaixonado por tecnologia e tudo no que é possível alcançar por ela!
+## 👋 Olá! Eu sou o Ruan Pablo
+### 🚀 Apaixonado pela tecnologia e por tudo que é possível alcançar com ela!
 
-- 🔭 Estou buscando uma oportunidade de trabalhar na área de tecnologia, como Técnico em TI ou desenvolvedor.
+- 🔭 Buscando uma oportunidade de trabalhar na área de tecnologia, como Técnico em TI ou desenvolvedor.
 - 🌱 Estudando para me tornar um excelente profissional, então caso tenha uma sujestão ou crítica no que encontrar aqui, toda ajuda será bem-vinda!
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-pablo-as&show_icons=true&theme=radical"/>
