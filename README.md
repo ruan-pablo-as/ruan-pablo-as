@@ -10,12 +10,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Olá! Eu sou o Ruan Pablo
-### 🚀 Apaixonado pela tecnologia e por tudo que é possível alcançar com ela!
+## 👋 Olá! Eu sou o Ruan Pablo, estudante de programação e tecnologia!
+### 🚀 Não só estudante, mas apaixonado por tecnologia e por tudo que é possível alcançar com ela!
 
 - 🔭 Buscando uma oportunidade de trabalhar na área de tecnologia, como Técnico em TI ou desenvolvedor.
 - 🌱 Estudando para me tornar um excelente profissional, então caso tenha uma sujestão ou crítica no que encontrar aqui, toda ajuda será bem-vinda!
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-pablo-as&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-pablo-as&show_icons=true&theme=radical"/>
+  <a href="https://linktr.ee/itsme.ruan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-pablo-as&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  </a>
+  <a href="https://linktr.ee/itsme.ruan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-pablo-as&layout=compact&show_icons=true&langs_count=16&theme=dark"/>
+  </a>
 </div>
+
+#### Aqui, irá encontrar alguns projetos e códigos que apresentarão meus estudos, fique á vontade!
