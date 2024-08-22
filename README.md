@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-#### Aqui, irá encontrar alguns projetos e códigos que apresentarão meus estudos, fique á vontade!
+#### Aqui, irá encontrar alguns projetos e códigos que apresentarão meus estudos. Fique á vontade!
