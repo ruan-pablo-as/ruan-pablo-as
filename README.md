@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## 👋 Olá! Eu sou o Ruan Pablo, estudante de programação e tecnologia!
 ### 🚀 Não só estudante, mas apaixonado por tecnologia e por tudo que é possível alcançar com ela!
 
-- 🔭 Buscando uma oportunidade de trabalhar na área de tecnologia.
+- 🔭 Buscando uma oportunidade de atuar na área de tecnologia.
 - 🌱 Estudando para me tornar um excelente profissional, então caso tenha uma sujestão ou crítica no que encontrar aqui, toda ajuda será bem-vinda!
 <div>
   <a href="https://linktr.ee/itsme.ruan">
