@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando para me tornar um excelente profissional, então caso tenha uma sujestão ou crítica no que encontrar aqui, toda ajuda será bem-vinda!
 <div>
   <a href="https://linktr.ee/itsme.ruan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-pablo-as&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-pablo-as&show_icons=true&count_private=true&theme=dark"/>
   </a>
   <a href="https://linktr.ee/itsme.ruan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-pablo-as&layout=compact&show_icons=true&langs_count=16&theme=dark"/>
